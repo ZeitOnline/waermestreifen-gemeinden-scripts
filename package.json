@@ -1,0 +1,17 @@
+{
+  "name": "so-viel-waermer-ist-es-bei-ihnen-scripts",
+  "version": "1.0.0",
+  "description": "Zusammenstellung der Skripte, die für den Artikel »Klimawandel: So viel wärmer ist es bei Ihnen« auf Zeit Online die Wärmestreifen und -karten erstellen.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.5.0",
+    "d3": "^5.14.2",
+    "gm": "^1.23.1",
+    "topojson": "^3.0.2"
+  }
+}
