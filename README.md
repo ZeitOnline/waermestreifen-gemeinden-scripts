@@ -1,6 +1,6 @@
 # Skripte
 
-Dies ist eine Zusammenstellung der Skripte, mit denen die Wärmestreifen und Karten im Artikel [So viel wärmer ist es bei Ihnen schon heute](https://www.zeit.de/wissen/umwelt/2019-12/klimawandel-globale-erwaermung-warming-stripes-wohnort) auf Zeit Online reproduziert werden können. Detaillierte Informationen zur Methodik befinden sich im Text und im Methodikkasten.
+Dies ist eine Zusammenstellung der Skripte, mit denen die Wärmestreifen und Karten im Artikel [Viel zu warm hier](https://www.zeit.de/wissen/umwelt/2019-12/klimawandel-globale-erwaermung-warming-stripes-wohnort) auf Zeit Online reproduziert werden können. Detaillierte Informationen zur Methodik befinden sich im Text und im Methodikkasten. Die Darstellung basiert auf den [Warming Stripes](https://showyourstripes.info/) von Ed Hawkins.
 
 ### Benötigte Tools
 
